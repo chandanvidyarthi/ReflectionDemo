@@ -1,0 +1,16 @@
+{
+  "rows": [
+    {
+      "pid": "5063114bd386d8fadbd6b007",
+      "name": "user_details_provider",
+      "className": "UserDetailsCardProvider",
+      "tittle": "My Profile Details",
+      "user_details": {
+        "name": "Chandan Vidyarthi",
+        "email": "chandanvdy@gmail.com",
+        "designation": "Software Enginnner"
+      },
+      "tittleColor": "Red"
+    }
+  ]
+}
